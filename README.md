@@ -4,3 +4,4 @@ Explicação sobre o que se trata o projeto: Versionamento de um sistema de uma 
 
 Tecnologias utilizadas: Java e MySQL.
 
+Projeto de Vinicius. 
